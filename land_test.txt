@@ -1,0 +1,14 @@
+main_test : main
+df_old_file : .\landuse_out\land_20200123_1909_o.xlsx
+start_zone : 1000
+github test~~
+stop_zone : 4571
+gong_file : ..\auction\a_u_out\경공매_20200126_0443.xlsx
+gong_file1 : .\gong_file\경공매_20200112_1957.csv
+sido_num : sido_num.txt
+landuse_out : .\landuse_out\land_
+landuse_out_last : _o.out 
+landuse_xlsx_last : _o.xlsx
+landuse_str : .\landuse\202001\ABPD_LAND_USE_STS_
+landuse_date : _202001.txt
+earth_str : .\earth\201912\AL_
