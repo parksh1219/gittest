@@ -12,3 +12,5 @@ landuse_xlsx_last : _o.xlsx
 landuse_str : .\landuse\202001\ABPD_LAND_USE_STS_
 landuse_date : _202001.txt
 earth_str : .\earth\201912\AL_
+
+변경함 20201230
