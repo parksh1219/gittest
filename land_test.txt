@@ -1,3 +1,4 @@
+# 한줄 추가
 main_test : main
 df_old_file : .\landuse_out\land_20200123_1909_o.xlsx
 start_zone : 1000
@@ -13,4 +14,5 @@ landuse_str : .\landuse\202001\ABPD_LAND_USE_STS_
 landuse_date : _202001.txt
 earth_str : .\earth\201912\AL_
 
-변경함 20201230
+# 변경함 20201230
+# 테스트로 github 내에서 수정한 부분입니다. 
